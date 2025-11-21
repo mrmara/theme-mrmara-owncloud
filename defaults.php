@@ -81,7 +81,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return 'Mrmara Cloud Storage';
+		return '<a href="https://mrmara.it">Mrmara Cloud Storage</a>';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://mrmara.it">Mrmara free and limitless cloud storage</a>';
+		return '';
 	}
 
 	public function getPrivacyPolicyUrl() {
