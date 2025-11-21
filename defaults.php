@@ -81,7 +81,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return '<a href="https://mrmara.it">Mrmara Cloud Storage</a>';
+		return 'Mrmara Cloud Storage';
 	}
 
 	/**
